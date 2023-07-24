@@ -1,6 +1,6 @@
 import React from 'react';
 
-const AboutMe = () => {
+const About = () => {
   return (
     <section className='flex flex-col mx-auto'>
       <div className='flex flex-col justify-center'>
@@ -18,4 +18,4 @@ const AboutMe = () => {
   );
 };
 
-export default AboutMe;
+export default About;

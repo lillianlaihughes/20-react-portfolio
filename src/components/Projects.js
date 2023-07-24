@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Project = ({ project }) => {
+const Projects = ({ project }) => {
     return (
         <div className="flex flex-row card w-96 glass justify-around">
             <img className="w-40 rounded" src={project.image} alt={project.title} />
@@ -15,4 +15,4 @@ const Project = ({ project }) => {
     );
 }
 
-export default Project;
+export default Projects;

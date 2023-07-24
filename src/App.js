@@ -1,32 +1,31 @@
 import React, { useState } from 'react';
-import Header from './components/header';
-import Navigation from './components/navigation';
-import AboutMe from './components/aboutMe';
-import Portfolio from './components/portfolio';
-import Contact from './components/contact';
-import Resume from './components/resume';
-import Footer from './components/footer';
+// import Resume from --> LIL TODO: Finish resume with career services and update this!
+import About from './components/About';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import Navigation from './components/Navigation';
+import Projects from './components/Projects';
 import './index.css';
 
-
 const App = () => {
-
   const [selectedSection, setSelectedSection] = useState('About Me');
 
-
   return (
-    <div className="App">
+    <div className='App'>
       <Header />
-      <Navigation selectedSection={selectedSection} setSelectedSection={setSelectedSection} />
+      <Navigation
+        selectedSection={selectedSection}
+        setSelectedSection={setSelectedSection}
+      />
       <main className='flex'>
-        {selectedSection === 'About Me' && <AboutMe />}
-        {selectedSection === 'Portfolio' && <Portfolio />}
+        {selectedSection === 'About Me' && <About />}
+        {selectedSection === 'Projects' && <Projects />}
         {selectedSection === 'Contact' && <Contact />}
-        {selectedSection === 'Resume' && <Resume />}
       </main>
       <Footer />
     </div>
   );
-}
+};
 
 export default App;
