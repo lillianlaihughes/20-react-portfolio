@@ -9,7 +9,7 @@ This module's challenge was to rebuild our portfolio using React. Not only would
 ## Deployment
 
 No app installation is required to view my portfolio. Simply click on the link below to view my deployed page:
-https://lillian-portfolio.herokuapp.com/
+https://lillian-portfolio-26b8847a9d28.herokuapp.com/
 
 ## Resources
 
