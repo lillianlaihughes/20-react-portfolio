@@ -1,6 +1,6 @@
 import React from 'react';
-import linkedinLogo from '../assets/logos/linkedInFooterLogo.png';
-import githubLogo from '../assets/logos/gitHubFooterLogo.png';
+import logoLinkedIn from '../assets/logo-linkedin.png';
+import logoGitHub from '../assets/logo-github.png';
 
 const Footer = () => {
   return (
@@ -9,12 +9,12 @@ const Footer = () => {
         <a href='https://www.linkedin.com/in/lillianlaihughes'>
           <img
             className='w-32 rounded'
-            src={linkedinLogo}
+            src={logoLinkedIn}
             alt='LinkedIn Logo'
           />
         </a>
         <a href='https://github.com/lillianlaihughes'>
-          <img className='w-32 rounded' src={githubLogo} alt='GitHub Logo' />
+          <img className='w-32 rounded' src={logoGitHub} alt='GitHub Logo' />
         </a>
       </div>
     </footer>
