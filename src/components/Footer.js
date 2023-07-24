@@ -5,7 +5,7 @@ import logoGitHub from '../assets/logo-github.png';
 const Footer = () => {
   return (
     <footer>
-      <div className=' flex flex-row justify-center bg-gradient-to-r from-violet-500 to-fuchsia-500'>
+      <div className=' flex flex-row justify-center bg-gradient-to-r from-cyan-200 to-pink-200'>
         <a href='https://www.linkedin.com/in/lillianlaihughes'>
           <img
             className='w-32 rounded'

@@ -20,3 +20,7 @@ https://lillian-portfolio.herokuapp.com/
 [TailwindCSS](https://v2.tailwindcss.com/docs)
 
 [DaisyUI](https://daisyui.com)
+
+## Shoutout to bootcamp classmate Brandon for guidance and encouragement
+
+[Brandon Kilgore](https://whispering-taiga-32488-3bcd433c5113.herokuapp.com)
