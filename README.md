@@ -21,6 +21,16 @@ https://lillian-portfolio.herokuapp.com/
 
 [DaisyUI](https://daisyui.com)
 
-## Shoutout to bootcamp classmate Brandon for guidance and encouragement
+## Shoutouts
 
-[Brandon Kilgore](https://whispering-taiga-32488-3bcd433c5113.herokuapp.com)
+Much love to my coding bootcamp classmates for guidance, encouragement, and patience!
+
+- [Brandon Kilgore](https://whispering-taiga-32488-3bcd433c5113.herokuapp.com)
+- Gayle Lennox
+- Tina Croxton
+- Adam Loppe
+- Candler Starke
+- Clarence Chang
+- Sandy Bui
+
+And big ups to our fearless instructor, Saurav, all our wonderful TAs (Andres, Andres, Ben, Constan, Morgan, and CJ), and my amazing tutor, Dominique!
