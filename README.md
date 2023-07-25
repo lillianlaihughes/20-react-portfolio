@@ -11,6 +11,10 @@ This module's challenge was to rebuild our portfolio using React. Not only would
 No app installation is required to view my portfolio. Simply click on the link below to view my deployed page:
 https://lillian-portfolio-26b8847a9d28.herokuapp.com/
 
+### I totally realize this is terrible and needs work, and I will continue working on it, but I'm honestly so happy that anything deployed I'm submitting this right now...
+
+![Screenshot](./src/assets/screenshot-reactportfolio-progress.PNG)
+
 ## Resources
 
 [Heroku](https://devcenter.heroku.com/categories/reference)
